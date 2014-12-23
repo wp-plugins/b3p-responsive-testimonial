@@ -25,7 +25,7 @@ PLUGIN FEATURE
 
 * install as a regular plugin.
 * You get a menu TESTIMONIAL after install. There you can add testimonial.
-you can call shortcode [b3p_testiminial] after add TESTIMONIAL.
+you can call <b> shortcode [b3p_testiminial] </b> after add TESTIMONIAL.
 
 
 == Frequently Asked Questions ==
