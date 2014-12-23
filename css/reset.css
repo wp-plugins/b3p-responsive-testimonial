@@ -1,0 +1,31 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+.cd-testimonials-wrapper ul ,.cd-testimonials-all ul,.cd-testimonials-wrapper li ,.cd-testimonials-all li ,.cd-testimonials-wrapper ol ,.cd-testimonials-all ol ,.cd-testimonials-all p{
+	margin: 0 ;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.cd-testimonials-wrapper ,.cd-testimonials-all {
+	line-height: 1;
+}
+.cd-testimonials-wrapper  ol,.cd-testimonials-all ol,.cd-testimonials-wrapper ul,.cd-testimonials-all ul {
+	list-style: none !important;;
+}
+.cd-testimonials-wrapper blockquote,.cd-testimonials-all blockquote ,.cd-testimonials-wrapper q ,.cd-testimonials-all q  {
+	quotes: none;
+}
+.cd-testimonials-wrapper table,.cd-testimonials-all table  {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*---------*/
+.cd-testimonials > li {
+  margin: 0 !important;
+}
