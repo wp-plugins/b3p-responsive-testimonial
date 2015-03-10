@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: BrotherTheePowers
-Donate link: 
+Donate link: b3psolution.com
 Tags: Testimonial, responsive testimonial, add testimonial by shortcode, 
 Requires at least: 3.3
 Tested up to: 4.1
@@ -16,16 +16,17 @@ This is shortcode testimonial plugin.
 
 PLUGIN FEATURE
 
-* add in theme by Shortcode 
+* add Testimonial in theme by Shortcode 
 * Tinymce editor button
 * Responsive
 
 
+<p><a href="http://b3psolution.com/plugin/free-plugins-2/b3p-testimonial/">Demo Link</a></p>
 == Installation ==
 
 * install as a regular plugin.
 * You get a menu TESTIMONIAL after install. There you can add testimonial.
-you can call <b> shortcode [b3p_testiminial] </b> after add TESTIMONIAL.
+you can call <strong> shortcode [b3p_testiminial] </strong> after add TESTIMONIAL.
 
 
 == Frequently Asked Questions ==
